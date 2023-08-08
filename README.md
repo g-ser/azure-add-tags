@@ -19,7 +19,7 @@ This repository includes a simple script for applying tags to Azure resources us
    pip install -r requirements.txt
    ```
 
-* You need to specify the tags that you need to add to the resources in the [add-tags.py](./add-tags.py) python script
+* You need to specify the tags that you want to add to the resources in the [add-tags.py](./add-tags.py) python script
 
 * You need to prepare the list of the IDs of the Azure resources where the tags will be added and specify them in the [add-tags.py](./add-tags.py) python script
 
